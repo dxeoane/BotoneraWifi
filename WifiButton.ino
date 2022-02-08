@@ -6,7 +6,7 @@
 
 #include "ConfigForm.h"
 
-#define APSSID "Config_wifibutton"
+#define APSSID "Config_WifiButton"
 #define DOMAIN "wifibutton"
 
 #define EEPROM_VALUE_SIZE 32
